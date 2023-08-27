@@ -33,6 +33,6 @@
 <br>
 
 <div align="left">  
-  <img width="38%"  src="https://github-readme-stats.vercel.app/api?username=cmooniz&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Cynt github stats" /> 
-  <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmooniz&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="38%"  src="https://github-readme-stats.vercel.app/api?username=cmooniz&show_icons=true&count_private=true&hide_border=true&title_color=ea4d7f&icon_color=ffbaca&text_color=ffd897&bg_color=0d1117" alt="Cynt github stats" /> 
+  <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmooniz&layout=compact&hide_border=true&title_color=ea4d7f&text_color=ffd897&bg_color=0d1117" />
 </div>
