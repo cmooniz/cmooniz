@@ -16,16 +16,16 @@ Atualmente estou no primeiro semestre de Análise e Desenvolvimento de Sistemas.
 <img src="https://img.shields.io/badge/ Main Skills: -5c5c5c.svg?style=for-the-badge&">
 <div>
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF6842">
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=html5&logoColor=60D1EA">
-<img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=html5&logoColor=FFBA1A">
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=60D1EA">
+<img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=FFBA1A">
 </div>
 <br>
 <br>
 <img src="https://img.shields.io/badge/ Studying in this moment:-5c5c5c.svg?style=for-the-badge&">
 <div>
-<img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=html5&logoColor=FFBA1A">
-  <img src="https://img.shields.io/badge/Node%20js-0D1117?style=for-the-badge&logo=html5&logoColor=94EA48">
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=html5&logoColor=1E9BEE">
+<img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=FFBA1A">
+  <img src="https://img.shields.io/badge/Node%20js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=94EA48">
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=1E9BEE">
 </div>
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f60c3b-c0a5-4590-8ad5-2ffff35c4b22/d54cy5f-df490595-e894-432d-9e95-7ed3e59c1e88.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZjYwYzNiLWMwYTUtNDU5MC04YWQ1LTJmZmZmMzVjNGIyMlwvZDU0Y3k1Zi1kZjQ5MDU5NS1lODk0LTQzMmQtOWU5NS03ZWQzZTU5YzFlODguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Tg3qJ-Y4RS40fbl0Jd5re28KMJwPQdTf_CO9rJPizys" align="right">
 <br>
