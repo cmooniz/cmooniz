@@ -23,6 +23,7 @@ Atualmente estou no primeiro semestre de Análise e Desenvolvimento de Sistemas.
 <br>
 <img src="https://img.shields.io/badge/ Studying in this moment:-5c5c5c.svg?style=for-the-badge&">
 <div>
+ <img src="https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=2338B2AC">
 <img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=FFBA1A">
   <img src="https://img.shields.io/badge/Node%20js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=94EA48">
 <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=1E9BEE">
