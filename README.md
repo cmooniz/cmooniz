@@ -1,7 +1,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><img src="https://img.shields.io/badge/ A little more about me... -ffbaca.svg?style=for-the-badge&">
 > Me chamo Cyntia, também conhecida como Cynt.<br>
-Atualmente estou no primeiro semestre de Análise e Desenvolvimento de Sistemas. <br>
+Atualmente estou no segundo semestre de Análise e Desenvolvimento de Sistemas. <br>
 <br>
 <br>
 <br>
